@@ -1,9 +1,10 @@
 import "./App.css";
+import { Paths } from "./utils/Paths";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Streem - Video Library</h1>
+    <div className="">
+      <Paths />
     </div>
   );
 }

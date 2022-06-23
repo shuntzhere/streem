@@ -1,9 +1,10 @@
 import Mockman from "mockman-js";
-
-export const Mockman = () => {
+function MockAPI() {
   return (
     <div className="MockAPI">
       <Mockman />
     </div>
   );
-};
+}
+
+export default MockAPI;

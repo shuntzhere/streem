@@ -4,7 +4,7 @@ import { Error } from "./Error/Error";
 import { Explore } from "./Explore/Explore";
 import { History } from "./History/History";
 import { Liked } from "./Liked/Liked";
-import { Mockman } from "./Mockman/Mockman";
 import { Watchlist } from "./Watchlist/Watchlist";
+import { Landing } from "./Landing/Landing";
 
-export { Login, Signup, Error, Explore, History, Liked, Mockman, Watchlist };
+export { Login, Signup, Error, Explore, History, Liked, Watchlist, Landing };
