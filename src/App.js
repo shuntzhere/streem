@@ -1,9 +1,9 @@
 import "./App.css";
-import { Paths } from "./utils/Paths";
+import { Paths } from "./routes/Paths";
 
 function App() {
   return (
-    <div className="">
+    <div className="App">
       <Paths />
     </div>
   );
