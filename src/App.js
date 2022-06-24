@@ -3,7 +3,7 @@ import { Paths } from "./utils/Paths";
 
 function App() {
   return (
-    <div className="">
+    <div className="App">
       <Paths />
     </div>
   );
